@@ -31,8 +31,10 @@ Things to carry to Hyderabad for maximum enjyoment.
 
 [link to Aboutme](AboutMe.md)
 
-## Food and Drinks to Try!
 ---
+
+## Food and Drinks to Try!
+
 This table below shows food and drinks you can try at diffrent restaurants. It also gives the information about the amount you can expect to spend on the items and the resturants/locations they are available at .
 
 | Food/Drink  | Location | Amount  | 
@@ -41,3 +43,11 @@ This table below shows food and drinks you can try at diffrent restaurants. It a
 | Mocha Caramel Coffee  | Starbucks  | 3.00 $ | 
 | Banana Bread  | Starbucks  | 2.80 $  | 
 | Vanilla Shake  | McDonald's |2.50 $  | 
+
+---
+## Quotes 
+
+> The only thing you have to fear is fear itself. *- F.D Roosevelt*
+
+> You must be the change you wish to see in the world. *- Mahatma Gandhi*
+
