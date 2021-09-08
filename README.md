@@ -30,3 +30,14 @@ Things to carry to Hyderabad for maximum enjyoment.
     * Hats/Caps
 
 [link to Aboutme](AboutMe.md)
+
+## Food and Drinks to Try!
+---
+This table below shows food and drinks you can try at diffrent restaurants. It also gives the information about the amount you can expect to spend on the items and the resturants/locations they are available at .
+
+| Food/Drink  | Location | Amount  | 
+| ------------- | ------------- | ------------- | 
+| McSpicy Ckicken Burger  | McDonald's | 1.99 $  | 
+| Mocha Caramel Coffee  | Starbucks  | 3.00 $ | 
+| Banana Bread  | Starbucks  | 2.80 $  | 
+| Vanilla Shake  | McDonald's |2.50 $  | 
